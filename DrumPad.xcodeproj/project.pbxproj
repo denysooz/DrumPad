@@ -1,0 +1,498 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CD1AAC382B6815D5000B2243 /* 120_Gm_MelodicSeq_SP_59_09.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD1AAC2C2B6815D4000B2243 /* 120_Gm_MelodicSeq_SP_59_09.wav */; };
+		CD1AAC392B6815D5000B2243 /* 122_OrganicShakers_09_703.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD1AAC2D2B6815D4000B2243 /* 122_OrganicShakers_09_703.wav */; };
+		CD1AAC3A2B6815D5000B2243 /* 120_Djembe_SP_130_07.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD1AAC2E2B6815D5000B2243 /* 120_Djembe_SP_130_07.wav */; };
+		CD1AAC3B2B6815D5000B2243 /* 120_D#m_Leeway_01_111_SP.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD1AAC2F2B6815D5000B2243 /* 120_D#m_Leeway_01_111_SP.wav */; };
+		CD1AAC3C2B6815D5000B2243 /* 125_303BassLoop_08_379.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD1AAC302B6815D5000B2243 /* 125_303BassLoop_08_379.wav */; };
+		CD1AAC3D2B6815D5000B2243 /* 132_Bassloop_15_177_SP.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD1AAC312B6815D5000B2243 /* 132_Bassloop_15_177_SP.wav */; };
+		CD1AAC3E2B6815D5000B2243 /* FallEffect_SP_310_04.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD1AAC322B6815D5000B2243 /* FallEffect_SP_310_04.wav */; };
+		CD1AAC3F2B6815D5000B2243 /* 119_Key_Tearhaus_SP_47_01.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD1AAC332B6815D5000B2243 /* 119_Key_Tearhaus_SP_47_01.wav */; };
+		CD1AAC402B6815D5000B2243 /* 125_TopLoop_29_256_SP.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD1AAC342B6815D5000B2243 /* 125_TopLoop_29_256_SP.wav */; };
+		CD1AAC412B6815D5000B2243 /* 120_F#m_OrganBass_SP_167_01.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD1AAC352B6815D5000B2243 /* 120_F#m_OrganBass_SP_167_01.wav */; };
+		CD1AAC422B6815D5000B2243 /* 120_A_MusicLoop_330_01.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD1AAC362B6815D5000B2243 /* 120_A_MusicLoop_330_01.wav */; };
+		CD1AAC432B6815D5000B2243 /* 120_RuleDrums_749.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD1AAC372B6815D5000B2243 /* 120_RuleDrums_749.wav */; };
+		CD551A932B626C1B000E0E92 /* EditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD551A922B626C1B000E0E92 /* EditViewController.swift */; };
+		CD551ABF2B627A2F000E0E92 /* EditCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD551ABE2B627A2F000E0E92 /* EditCell.swift */; };
+		CD551AC92B628C7E000E0E92 /* MusicCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD551AC82B628C7E000E0E92 /* MusicCell.swift */; };
+		CD551ACC2B629682000E0E92 /* EditCustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD551ACA2B629682000E0E92 /* EditCustomCell.swift */; };
+		CD551ACD2B629682000E0E92 /* EditCustomCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD551ACB2B629682000E0E92 /* EditCustomCell.xib */; };
+		CDC4C9872B68FDC000039FAD /* 120_RevVerbPerc_01_149_SP.wav in Resources */ = {isa = PBXBuildFile; fileRef = CDC4C9832B68FDC000039FAD /* 120_RevVerbPerc_01_149_SP.wav */; };
+		CDC4C9882B68FDC000039FAD /* 120_Perc_23_215_SP.wav in Resources */ = {isa = PBXBuildFile; fileRef = CDC4C9842B68FDC000039FAD /* 120_Perc_23_215_SP.wav */; };
+		CDC4C9892B68FDC000039FAD /* 120_TimbaleLoop_15_175_SP.wav in Resources */ = {isa = PBXBuildFile; fileRef = CDC4C9852B68FDC000039FAD /* 120_TimbaleLoop_15_175_SP.wav */; };
+		CDC4C98A2B68FDC000039FAD /* 120_Kick_20_203_SP.wav in Resources */ = {isa = PBXBuildFile; fileRef = CDC4C9862B68FDC000039FAD /* 120_Kick_20_203_SP.wav */; };
+		CDFA613D2B5FC57100150726 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFA613C2B5FC57100150726 /* AppDelegate.swift */; };
+		CDFA613F2B5FC57100150726 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFA613E2B5FC57100150726 /* SceneDelegate.swift */; };
+		CDFA61442B5FC57100150726 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDFA61422B5FC57100150726 /* Main.storyboard */; };
+		CDFA61462B5FC57300150726 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDFA61452B5FC57300150726 /* Assets.xcassets */; };
+		CDFA61492B5FC57300150726 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDFA61472B5FC57300150726 /* LaunchScreen.storyboard */; };
+		CDFA61632B5FCCED00150726 /* DrumViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFA61622B5FCCED00150726 /* DrumViewController.swift */; };
+		CDFA61692B5FE9B300150726 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFA61682B5FE9B300150726 /* Buttons.swift */; };
+		CDFA61732B6166BC00150726 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFA61722B6166BC00150726 /* MenuViewController.swift */; };
+		CDFA61792B616D9800150726 /* MusicListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFA61782B616D9800150726 /* MusicListViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		CD1AAC2C2B6815D4000B2243 /* 120_Gm_MelodicSeq_SP_59_09.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 120_Gm_MelodicSeq_SP_59_09.wav; sourceTree = "<group>"; };
+		CD1AAC2D2B6815D4000B2243 /* 122_OrganicShakers_09_703.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 122_OrganicShakers_09_703.wav; sourceTree = "<group>"; };
+		CD1AAC2E2B6815D5000B2243 /* 120_Djembe_SP_130_07.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 120_Djembe_SP_130_07.wav; sourceTree = "<group>"; };
+		CD1AAC2F2B6815D5000B2243 /* 120_D#m_Leeway_01_111_SP.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "120_D#m_Leeway_01_111_SP.wav"; sourceTree = "<group>"; };
+		CD1AAC302B6815D5000B2243 /* 125_303BassLoop_08_379.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 125_303BassLoop_08_379.wav; sourceTree = "<group>"; };
+		CD1AAC312B6815D5000B2243 /* 132_Bassloop_15_177_SP.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 132_Bassloop_15_177_SP.wav; sourceTree = "<group>"; };
+		CD1AAC322B6815D5000B2243 /* FallEffect_SP_310_04.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = FallEffect_SP_310_04.wav; sourceTree = "<group>"; };
+		CD1AAC332B6815D5000B2243 /* 119_Key_Tearhaus_SP_47_01.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 119_Key_Tearhaus_SP_47_01.wav; sourceTree = "<group>"; };
+		CD1AAC342B6815D5000B2243 /* 125_TopLoop_29_256_SP.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 125_TopLoop_29_256_SP.wav; sourceTree = "<group>"; };
+		CD1AAC352B6815D5000B2243 /* 120_F#m_OrganBass_SP_167_01.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "120_F#m_OrganBass_SP_167_01.wav"; sourceTree = "<group>"; };
+		CD1AAC362B6815D5000B2243 /* 120_A_MusicLoop_330_01.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 120_A_MusicLoop_330_01.wav; sourceTree = "<group>"; };
+		CD1AAC372B6815D5000B2243 /* 120_RuleDrums_749.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 120_RuleDrums_749.wav; sourceTree = "<group>"; };
+		CD551A922B626C1B000E0E92 /* EditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditViewController.swift; sourceTree = "<group>"; };
+		CD551ABE2B627A2F000E0E92 /* EditCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditCell.swift; sourceTree = "<group>"; };
+		CD551AC82B628C7E000E0E92 /* MusicCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicCell.swift; sourceTree = "<group>"; };
+		CD551ACA2B629682000E0E92 /* EditCustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditCustomCell.swift; sourceTree = "<group>"; };
+		CD551ACB2B629682000E0E92 /* EditCustomCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EditCustomCell.xib; sourceTree = "<group>"; };
+		CDC4C9832B68FDC000039FAD /* 120_RevVerbPerc_01_149_SP.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 120_RevVerbPerc_01_149_SP.wav; sourceTree = "<group>"; };
+		CDC4C9842B68FDC000039FAD /* 120_Perc_23_215_SP.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 120_Perc_23_215_SP.wav; sourceTree = "<group>"; };
+		CDC4C9852B68FDC000039FAD /* 120_TimbaleLoop_15_175_SP.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 120_TimbaleLoop_15_175_SP.wav; sourceTree = "<group>"; };
+		CDC4C9862B68FDC000039FAD /* 120_Kick_20_203_SP.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 120_Kick_20_203_SP.wav; sourceTree = "<group>"; };
+		CDFA61392B5FC57100150726 /* DrumPad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DrumPad.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CDFA613C2B5FC57100150726 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		CDFA613E2B5FC57100150726 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		CDFA61432B5FC57100150726 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CDFA61452B5FC57300150726 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CDFA61482B5FC57300150726 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CDFA614A2B5FC57300150726 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CDFA61622B5FCCED00150726 /* DrumViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrumViewController.swift; sourceTree = "<group>"; };
+		CDFA61682B5FE9B300150726 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
+		CDFA61722B6166BC00150726 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		CDFA61782B616D9800150726 /* MusicListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicListViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CDFA61362B5FC57100150726 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CDFA61302B5FC57100150726 = {
+			isa = PBXGroup;
+			children = (
+				CDFA613B2B5FC57100150726 /* DrumPad */,
+				CDFA613A2B5FC57100150726 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CDFA613A2B5FC57100150726 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CDFA61392B5FC57100150726 /* DrumPad.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CDFA613B2B5FC57100150726 /* DrumPad */ = {
+			isa = PBXGroup;
+			children = (
+				CDFA61672B5FE58300150726 /* Controller */,
+				CDFA61652B5FE57100150726 /* View */,
+				CDFA61642B5FE56C00150726 /* Model */,
+				CDFA61592B5FC6B600150726 /* Music */,
+				CDFA613C2B5FC57100150726 /* AppDelegate.swift */,
+				CDFA613E2B5FC57100150726 /* SceneDelegate.swift */,
+				CDFA61422B5FC57100150726 /* Main.storyboard */,
+				CDFA61452B5FC57300150726 /* Assets.xcassets */,
+				CDFA61472B5FC57300150726 /* LaunchScreen.storyboard */,
+				CDFA614A2B5FC57300150726 /* Info.plist */,
+			);
+			path = DrumPad;
+			sourceTree = "<group>";
+		};
+		CDFA61592B5FC6B600150726 /* Music */ = {
+			isa = PBXGroup;
+			children = (
+				CDC4C9862B68FDC000039FAD /* 120_Kick_20_203_SP.wav */,
+				CDC4C9842B68FDC000039FAD /* 120_Perc_23_215_SP.wav */,
+				CDC4C9832B68FDC000039FAD /* 120_RevVerbPerc_01_149_SP.wav */,
+				CDC4C9852B68FDC000039FAD /* 120_TimbaleLoop_15_175_SP.wav */,
+				CD1AAC332B6815D5000B2243 /* 119_Key_Tearhaus_SP_47_01.wav */,
+				CD1AAC362B6815D5000B2243 /* 120_A_MusicLoop_330_01.wav */,
+				CD1AAC2F2B6815D5000B2243 /* 120_D#m_Leeway_01_111_SP.wav */,
+				CD1AAC2E2B6815D5000B2243 /* 120_Djembe_SP_130_07.wav */,
+				CD1AAC352B6815D5000B2243 /* 120_F#m_OrganBass_SP_167_01.wav */,
+				CD1AAC2C2B6815D4000B2243 /* 120_Gm_MelodicSeq_SP_59_09.wav */,
+				CD1AAC372B6815D5000B2243 /* 120_RuleDrums_749.wav */,
+				CD1AAC2D2B6815D4000B2243 /* 122_OrganicShakers_09_703.wav */,
+				CD1AAC302B6815D5000B2243 /* 125_303BassLoop_08_379.wav */,
+				CD1AAC342B6815D5000B2243 /* 125_TopLoop_29_256_SP.wav */,
+				CD1AAC312B6815D5000B2243 /* 132_Bassloop_15_177_SP.wav */,
+				CD1AAC322B6815D5000B2243 /* FallEffect_SP_310_04.wav */,
+			);
+			path = Music;
+			sourceTree = "<group>";
+		};
+		CDFA61642B5FE56C00150726 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		CDFA61652B5FE57100150726 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				CD551ACA2B629682000E0E92 /* EditCustomCell.swift */,
+				CD551ACB2B629682000E0E92 /* EditCustomCell.xib */,
+				CDFA61682B5FE9B300150726 /* Buttons.swift */,
+				CD551ABE2B627A2F000E0E92 /* EditCell.swift */,
+				CD551AC82B628C7E000E0E92 /* MusicCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		CDFA61672B5FE58300150726 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				CDFA61722B6166BC00150726 /* MenuViewController.swift */,
+				CDFA61622B5FCCED00150726 /* DrumViewController.swift */,
+				CD551A922B626C1B000E0E92 /* EditViewController.swift */,
+				CDFA61782B616D9800150726 /* MusicListViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CDFA61382B5FC57100150726 /* DrumPad */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CDFA614D2B5FC57300150726 /* Build configuration list for PBXNativeTarget "DrumPad" */;
+			buildPhases = (
+				CDFA61352B5FC57100150726 /* Sources */,
+				CDFA61362B5FC57100150726 /* Frameworks */,
+				CDFA61372B5FC57100150726 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DrumPad;
+			productName = DrumPad;
+			productReference = CDFA61392B5FC57100150726 /* DrumPad.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CDFA61312B5FC57100150726 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					CDFA61382B5FC57100150726 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+				};
+			};
+			buildConfigurationList = CDFA61342B5FC57100150726 /* Build configuration list for PBXProject "DrumPad" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CDFA61302B5FC57100150726;
+			productRefGroup = CDFA613A2B5FC57100150726 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CDFA61382B5FC57100150726 /* DrumPad */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CDFA61372B5FC57100150726 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD1AAC3C2B6815D5000B2243 /* 125_303BassLoop_08_379.wav in Resources */,
+				CD1AAC3E2B6815D5000B2243 /* FallEffect_SP_310_04.wav in Resources */,
+				CD1AAC3B2B6815D5000B2243 /* 120_D#m_Leeway_01_111_SP.wav in Resources */,
+				CD1AAC402B6815D5000B2243 /* 125_TopLoop_29_256_SP.wav in Resources */,
+				CD1AAC382B6815D5000B2243 /* 120_Gm_MelodicSeq_SP_59_09.wav in Resources */,
+				CD1AAC3F2B6815D5000B2243 /* 119_Key_Tearhaus_SP_47_01.wav in Resources */,
+				CDC4C9872B68FDC000039FAD /* 120_RevVerbPerc_01_149_SP.wav in Resources */,
+				CDC4C9882B68FDC000039FAD /* 120_Perc_23_215_SP.wav in Resources */,
+				CD1AAC3D2B6815D5000B2243 /* 132_Bassloop_15_177_SP.wav in Resources */,
+				CD1AAC412B6815D5000B2243 /* 120_F#m_OrganBass_SP_167_01.wav in Resources */,
+				CD1AAC422B6815D5000B2243 /* 120_A_MusicLoop_330_01.wav in Resources */,
+				CD1AAC432B6815D5000B2243 /* 120_RuleDrums_749.wav in Resources */,
+				CDFA61492B5FC57300150726 /* LaunchScreen.storyboard in Resources */,
+				CDC4C98A2B68FDC000039FAD /* 120_Kick_20_203_SP.wav in Resources */,
+				CD1AAC392B6815D5000B2243 /* 122_OrganicShakers_09_703.wav in Resources */,
+				CD1AAC3A2B6815D5000B2243 /* 120_Djembe_SP_130_07.wav in Resources */,
+				CDFA61462B5FC57300150726 /* Assets.xcassets in Resources */,
+				CDC4C9892B68FDC000039FAD /* 120_TimbaleLoop_15_175_SP.wav in Resources */,
+				CD551ACD2B629682000E0E92 /* EditCustomCell.xib in Resources */,
+				CDFA61442B5FC57100150726 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CDFA61352B5FC57100150726 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD551A932B626C1B000E0E92 /* EditViewController.swift in Sources */,
+				CDFA61692B5FE9B300150726 /* Buttons.swift in Sources */,
+				CD551AC92B628C7E000E0E92 /* MusicCell.swift in Sources */,
+				CDFA61732B6166BC00150726 /* MenuViewController.swift in Sources */,
+				CDFA613D2B5FC57100150726 /* AppDelegate.swift in Sources */,
+				CDFA61632B5FCCED00150726 /* DrumViewController.swift in Sources */,
+				CDFA613F2B5FC57100150726 /* SceneDelegate.swift in Sources */,
+				CDFA61792B616D9800150726 /* MusicListViewController.swift in Sources */,
+				CD551ACC2B629682000E0E92 /* EditCustomCell.swift in Sources */,
+				CD551ABF2B627A2F000E0E92 /* EditCell.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		CDFA61422B5FC57100150726 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CDFA61432B5FC57100150726 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CDFA61472B5FC57300150726 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CDFA61482B5FC57300150726 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CDFA614B2B5FC57300150726 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CDFA614C2B5FC57300150726 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CDFA614E2B5FC57300150726 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HN9GG893K9;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = DrumPad/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = drum12321;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CDFA614F2B5FC57300150726 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HN9GG893K9;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = DrumPad/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = drum12321;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CDFA61342B5FC57100150726 /* Build configuration list for PBXProject "DrumPad" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CDFA614B2B5FC57300150726 /* Debug */,
+				CDFA614C2B5FC57300150726 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CDFA614D2B5FC57300150726 /* Build configuration list for PBXNativeTarget "DrumPad" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CDFA614E2B5FC57300150726 /* Debug */,
+				CDFA614F2B5FC57300150726 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CDFA61312B5FC57100150726 /* Project object */;
+}
